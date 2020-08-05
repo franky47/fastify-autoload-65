@@ -11,7 +11,7 @@
     "demo": "run-s build start"
   },
   "dependencies": {
-    "fastify": "^2.12.0",
+    "fastify": "^2.15.1",
     "fastify-autoload": "^1.2.1",
     "typescript": "^3.7.5"
   },
